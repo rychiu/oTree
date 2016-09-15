@@ -3,7 +3,7 @@ from otree.api import (
     Currency as c, currency_range
 )
 import random
-
+# Matching Pennies game
 
 doc = """
 A demo of how rounds work in oTree, in the context of 'matching pennies'
